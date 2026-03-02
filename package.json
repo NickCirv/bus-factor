@@ -1,0 +1,37 @@
+{
+  "name": "bus-factor",
+  "version": "1.0.0",
+  "description": "Calculate your codebase's bus factor. Find single points of failure. Know who's holding everything together.",
+  "type": "module",
+  "bin": {
+    "bus-factor": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "git",
+    "codebase",
+    "team",
+    "ownership",
+    "risk",
+    "bus-factor",
+    "developer-tools",
+    "code-health",
+    "knowledge",
+    "single-point-of-failure"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/bus-factor.git"
+  },
+  "homepage": "https://github.com/NickCirv/bus-factor#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/bus-factor/issues"
+  }
+}
